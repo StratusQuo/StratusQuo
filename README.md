@@ -33,7 +33,7 @@
 
 <br>
 
-## Technologies used at work:
+### Technologies used at work:
 
 <!--- Terribly Formatted Table -->
 
@@ -49,7 +49,7 @@
 
 <!--- End Table -->
 
-## Tools I use daily:
+### Tools I use daily:
 
 ![MacOS](https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=apple&logoColor=white)
 ![Debian](https://img.shields.io/badge/Debian-A81D33?style=for-the-badge&logo=debian&logoColor=white)
@@ -75,7 +75,7 @@
 
 
 
-## Stuff I love to play with in my spare time
+### Stuff I love to play with in my spare time
 
 ![Xilinx](https://img.shields.io/badge/Xilinx_Vivado-E01F27.svg?style=for-the-badge&logo=Xilinx&logoColor=white)
 ![Kicad](https://img.shields.io/badge/KiCad-314CB0.svg?style=for-the-badge&logo=KiCad&logoColor=white)
@@ -88,7 +88,7 @@
 ![Javascript](https://img.shields.io/badge/JavaScript-F7DF1E.svg?style=for-the-badge&logo=JavaScript&logoColor=black)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
-## Interested in learning more about:
+### Interested in learning more about:
 
 ![Rust](https://img.shields.io/badge/Rust-000000.svg?style=for-the-badge&logo=Rust&logoColor=white)
 ![Go](https://img.shields.io/badge/Go-00ADD8.svg?style=for-the-badge&logo=Go&logoColor=white)
