@@ -1,12 +1,12 @@
 ![Views](https://komarev.com/ghpvc/?username=StratusQuo&style=for-the-badge&color=56A3A6)<br>
 ![Followers](https://img.shields.io/github/followers/StratusQuo?style=for-the-badge&color=93B7BE)<br>
 ![Stars](https://img.shields.io/github/stars/StratusQuo?style=for-the-badge&color=EDD3C4)<br>
-[![Linkedin Badge](https://img.shields.io/badge/-cchappell-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/christopherchappell/)](https://www.linkedin.com/in/christopherchappell/)
+
 
 ## Hey there! I'm Chris <img src="https://cultofthepartyparrot.com/parrots/hd/60fpsparrot.gif" width="30">
 
 ### 👨🏽‍💻 &nbsp;About Me
-💻 &nbsp;I'm a Cloud Support Engineer. \
+💻 &nbsp;I'm a Cloud Support Engineer \
 🤖 &nbsp;I'm *always* looking for new ways to automate my daily workflow.\
 🎓 &nbsp;I'm a student majoring in [Cloud Computing](https://www.wgu.edu/online-it-degrees/cloud-computing-bachelors-program.html) at [WGU](https://wgu.edu/).\
 🧠 &nbsp;When it comes to problem-solving, I'm like a _mad scientist_ - always tinkering, experimenting, and looking for novel solutions.\
@@ -104,3 +104,7 @@
 ![Jenkins](https://img.shields.io/badge/Jenkins-D24939.svg?style=for-the-badge&logo=Jenkins&logoColor=white)
 ![Budibase](https://img.shields.io/badge/Budibase-000000.svg?style=for-the-badge&logo=Budibase&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-DC382D.svg?style=for-the-badge&logo=Redis&logoColor=white)
+
+### Connect with me:
+
+[![Linkedin Badge](https://img.shields.io/badge/-cchappell-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/christopherchappell/)](https://www.linkedin.com/in/christopherchappell/)
