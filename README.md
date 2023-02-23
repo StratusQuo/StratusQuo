@@ -1,30 +1,31 @@
-![Views](https://komarev.com/ghpvc/?username=StratusQuo&style=for-the-badge&color=93B7BE)<br>
+![Views](https://komarev.com/ghpvc/?username=StratusQuo&style=for-the-badge&color=56A3A6)<br>
 ![Followers](https://img.shields.io/github/followers/StratusQuo?style=for-the-badge&color=93B7BE)<br>
-![Stars](https://img.shields.io/github/stars/StratusQuo?style=for-the-badge&color=93B7BE)<br>
+![Stars](https://img.shields.io/github/stars/StratusQuo?style=for-the-badge&color=EDD3C4)<br>
 [![Linkedin Badge](https://img.shields.io/badge/-cchappell-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/christopherchappell/)](https://www.linkedin.com/in/christopherchappell/)
 
 # Hey there! <img src="https://cultofthepartyparrot.com/parrots/hd/60fpsparrot.gif" width="30">
 
-### I'm Chris, a Cloud Support Engineer, and student majoring in [Cloud Computing](https://www.wgu.edu/online-it-degrees/cloud-computing-bachelors-program.html) at [WGU](https://wgu.edu/). I am hardware enthusiast, Linux geek, and Cloud aficionado. I'm *always* looking for new ways to automate my daily workflow, and I love bold, innovative ideas.
+##### I'm Chris, a Cloud Support Engineer, and student majoring in [Cloud Computing](https://www.wgu.edu/online-it-degrees/cloud-computing-bachelors-program.html) at [WGU](https://wgu.edu/). I am hardware enthusiast, Linux geek, and Cloud aficionado. I'm *always* looking for new ways to automate my daily workflow, and I love bold, innovative ideas.
 
 <br>
 
 
-### Work Experience 👔
+### Work Experience 💼
+
 | Job Position                 | Company            | Field                        | Work Period                |
 | ---------------------------- | ------------------ | ---------------------------- | -------------------------- |
 | **Cloud Support Engineer**   | **DigitalOcean**   | **Cloud**                    | **Sept 2022 — Feb 2023**  |
 | Business Development Rep     | DigitalOcean       | Cloud                        | Apr 2021  — Sept 2022   |
 | Mid-Market BDR               | Checkpoint Software| Cybersecurity                | Apr 2020 — Apt 2021    |
 
+<br>
 
+### Education 👨🏽‍🎓
 
-### Education 🎓
 - [Bachelor of Science, Cloud Computing](https://www.wgu.edu/content/dam/wgu-65-assets/western-governors/documents/program-guides/information-technology/BSCC.pdf) @ ***Western Governor's University*** (*2022 - Current*)
 
 
-
-### Certifications 📜
+### Certifications 🎖️
 
 - [A+](https://www.certmetrics.com/comptia/public/verification.aspx?code=2LGJ7GNVEQ06V09Y) via **CompTIA**
 - [Google IT Support](https://www.coursera.org/account/accomplishments/specialization/certificate/KP56WZCXZSAC) via **Coursera**
