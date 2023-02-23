@@ -107,4 +107,4 @@
 
 ### Connect with me:
 
-[![Linkedin Badge](https://img.shields.io/badge/-cchappell-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/christopherchappell/)](https://www.linkedin.com/in/christopherchappell/)
+[![Linkedin Badge](https://img.shields.io/badge/-christopherchappell-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/christopherchappell/)](https://www.linkedin.com/in/christopherchappell/)
