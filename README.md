@@ -5,16 +5,13 @@
 
 ## Hey there! I'm Chris <img src="https://cultofthepartyparrot.com/parrots/hd/60fpsparrot.gif" width="30">
 
-##### I'm Chris,  I am hardware enthusiast, Linux geek, and Cloud aficionado. I'm *always* looking for new ways to automate my daily workflow, and I love bold, innovative ideas.
-
 ### 👨🏽‍💻 &nbsp;About Me
 💻 &nbsp;I'm a Cloud Support Engineer. \
 🤖 &nbsp;I'm *always* looking for new ways to automate my daily workflow.\
 🎓 &nbsp;I'm a student majoring in [Cloud Computing](https://www.wgu.edu/online-it-degrees/cloud-computing-bachelors-program.html) at [WGU](https://wgu.edu/).\
 🧠 &nbsp;When it comes to problem-solving, I'm like a _mad scientist_ - always tinkering, experimenting, and looking for novel solutions.\
-🎹 &nbsp;In my free time, I play (_and repair_) vintage synths; write, draw, spend time fiddling with my home lab, and tinker with electronics design.\
+🎹 &nbsp;In my free time, I play (_and repair_) vintage synths; write, draw, work on my homelab, and tinker with electronics design.\
 💬 &nbsp;Feel free to reach out if you'd like to collaborate, or if you'd like to talk about the above topics :)
-
 
 
 ### Work Experience 💼
