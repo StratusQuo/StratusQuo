@@ -12,7 +12,7 @@
 🤖 &nbsp;I'm *always* looking for new ways to automate my daily workflow.\
 🎓 &nbsp;I'm a student majoring in [Cloud Computing](https://www.wgu.edu/online-it-degrees/cloud-computing-bachelors-program.html) at [WGU](https://wgu.edu/).\
 🧠 &nbsp;When it comes to problem-solving, I'm like a _mad scientist_ - always tinkering, experimenting, and looking for novel solutions.\
-🎹 &nbsp;In my free time, I play (_and repair_) vintage synths, write, draw, spend time fiddling with my home lab, and tinker with electronics design.\
+🎹 &nbsp;In my free time, I play (_and repair_) vintage synths; write, draw, spend time fiddling with my home lab, and tinker with electronics design.\
 💬 &nbsp;Feel free to reach out if you'd like to collaborate, or if you'd like to talk about the above topics :)
 
 
