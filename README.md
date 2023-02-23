@@ -1,6 +1,6 @@
 ## Hey there! <img src="https://cultofthepartyparrot.com/parrots/hd/60fpsparrot.gif" width="30">
 
-I'm Chris, a Cloud Support Engineer, and student majoring in [Cloud Computing](https://www.wgu.edu/online-it-degrees/cloud-computing-bachelors-program.html) at [WGU](https://wgu.edu/). I am hardware enthusiast, Linux geek, and Cloud aficionado. I'm always looking to automate my workflow, and I love bold, innovative ideas. Feel free to connect with me here:
+I'm Chris, a Cloud Support Engineer, and student majoring in [Cloud Computing](https://www.wgu.edu/online-it-degrees/cloud-computing-bachelors-program.html) at [WGU](https://wgu.edu/). I am hardware enthusiast, Linux geek, and Cloud aficionado. I'm _always_ looking to automate my workflow, and I love **bold**, innovative ideas. Feel free to connect with me here:
 
 [![Linkedin Badge](https://img.shields.io/badge/-cchappell-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/christopherchappell/)](https://www.linkedin.com/in/christopherchappell/)
 
