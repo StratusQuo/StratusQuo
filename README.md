@@ -3,11 +3,18 @@
 ![Stars](https://img.shields.io/github/stars/StratusQuo?style=for-the-badge&color=EDD3C4)<br>
 [![Linkedin Badge](https://img.shields.io/badge/-cchappell-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/christopherchappell/)](https://www.linkedin.com/in/christopherchappell/)
 
-# Hey there! <img src="https://cultofthepartyparrot.com/parrots/hd/60fpsparrot.gif" width="30">
+## Hey there! I'm Chris <img src="https://cultofthepartyparrot.com/parrots/hd/60fpsparrot.gif" width="30">
 
-##### I'm Chris, a Cloud Support Engineer, and student majoring in [Cloud Computing](https://www.wgu.edu/online-it-degrees/cloud-computing-bachelors-program.html) at [WGU](https://wgu.edu/). I am hardware enthusiast, Linux geek, and Cloud aficionado. I'm *always* looking for new ways to automate my daily workflow, and I love bold, innovative ideas.
+##### I'm Chris,  I am hardware enthusiast, Linux geek, and Cloud aficionado. I'm *always* looking for new ways to automate my daily workflow, and I love bold, innovative ideas.
 
-<br>
+### 👨🏽‍💻 &nbsp;About Me
+💻 &nbsp;I'm a Cloud Support Engineer. \
+🤖 &nbsp;I'm *always* looking for new ways to automate my daily workflow.\
+🎓 &nbsp;I'm a student majoring in [Cloud Computing](https://www.wgu.edu/online-it-degrees/cloud-computing-bachelors-program.html) at [WGU](https://wgu.edu/).\
+🧠 &nbsp;When it comes to problem-solving, I'm like a _mad scientist_ - always tinkering, experimenting, and looking for novel solutions.\
+🎹 &nbsp;In my free time, I play (_and repair_) vintage synths, write, draw, spend time fiddling with my home lab, and tinker with electronics design.\
+💬 &nbsp;Feel free to reach out if you'd like to collaborate, or if you'd like to talk about the above topics :)
+
 
 
 ### Work Experience 💼
