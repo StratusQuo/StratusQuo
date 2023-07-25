@@ -32,6 +32,7 @@
 ### Certifications 🎖️
 
 - [A+](https://www.certmetrics.com/comptia/public/verification.aspx?code=2LGJ7GNVEQ06V09Y) via **CompTIA**
+- [Network+] via **CompTIA**
 - [Google IT Support](https://www.coursera.org/account/accomplishments/specialization/certificate/KP56WZCXZSAC) via **Coursera**
 - [Blockchain Specialization](https://www.coursera.org/account/accomplishments/specialization/certificate/P9ZJZEJJCL8Z) via **Coursera**
 
