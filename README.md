@@ -33,6 +33,8 @@
 
 - [A+](https://www.certmetrics.com/comptia/public/verification.aspx?code=2LGJ7GNVEQ06V09Y) via **CompTIA**
 - [Network+](https://www.certmetrics.com/comptia/public/verification.aspx?code=7Q07C435GEQQ11SD) via **CompTIA**
+- [Security+](https://www.certmetrics.com/comptia/public/verification.aspx?code=4HBHQFMSNBBEQN9Z) via **CompTIA**
+- [Linux Essentials](https://cs.lpi.org/caf/Xamman/certification/verify/LPI000575066/2sbru5zfec) via **LPI**
 - [Google IT Support](https://www.coursera.org/account/accomplishments/specialization/certificate/KP56WZCXZSAC) via **Coursera**
 - [Blockchain Specialization](https://www.coursera.org/account/accomplishments/specialization/certificate/P9ZJZEJJCL8Z) via **Coursera**
 
