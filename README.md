@@ -16,11 +16,12 @@
 
 ### Work Experience 💼
 
-| Job Position                 | Company            | Field                        | Work Period                |
-| ---------------------------- | ------------------ | ---------------------------- | -------------------------- |
-| **Cloud Support Engineer**   | **DigitalOcean**   | **Cloud**                    | **Sept 2022 — Feb 2023**   |
-| Business Development Rep     | DigitalOcean       | Cloud                        | Apr 2021  — Sept 2022      |
-| Mid-Market BDR               | Checkpoint Software| Cybersecurity                | Apr 2020 — Apt 2021        |
+| Job Position                      | Company              | Field                        | Work Period                |
+| ----------------------------      | ------------------   | ---------------------------- | -------------------------- |
+| **Integration Support Engineer**  | **Bambuser**         | **Streaming**                | **Sept 2023 -**            |
+| Cloud Support Engineer            | DigitalOcean         | Cloud                        | Sept 2022 — Feb 2023       |
+| Business Development Rep          | DigitalOcean         | Cloud                        | Apr 2021  — Sept 2022      |
+| Mid-Market BDR                    | Checkpoint Software  | Cybersecurity                | Apr 2020 — Apt 2021        |
 
 <br>
 
