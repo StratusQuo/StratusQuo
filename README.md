@@ -41,7 +41,7 @@
 
 <br>
 
-### Technologies used at work:
+### Tools and Platforms used at work:
 
 <!--- Terribly Formatted Table -->
 
@@ -60,56 +60,49 @@
 
 ### Tools I use daily:
 
-![MacOS](https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=apple&logoColor=white)
-![Arch](https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white)
-![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
-![Virtualbox](https://img.shields.io/badge/VirtualBox-183A61.svg?style=for-the-badge&logo=VirtualBox&logoColor=white)
-![Wezterm](https://img.shields.io/badge/Wezterm-412991.svg?style=for-the-badge&logo=GNOME-Terminal&logoColor=white)
-![Neovim](https://img.shields.io/badge/NeoVim-%2357A143.svg?&style=for-the-badge&logo=neovim&logoColor=white)
-![Emacs](https://img.shields.io/badge/Emacs-%237F5AB6.svg?&style=for-the-badge&logo=gnu-emacs&logoColor=white)
-![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=GNU%20Bash&logoColor=white)
-![ZSH](https://img.shields.io/badge/Z_Shell-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)
-![Alfred](https://img.shields.io/badge/Alfred-6C1F87.svg?style=for-the-badge&logo=Alfred&logoColor=white)
-![Vivaldi](https://img.shields.io/badge/Vivaldi-EF3939?style=for-the-badge&logo=Vivaldi&logoColor=white)
-![Obsidian](https://img.shields.io/badge/Obsidian-483699.svg?style=for-the-badge&logo=Obsidian&logoColor=white)
-![Notion](https://img.shields.io/badge/Notion-000000.svg?style=for-the-badge&logo=Notion&logoColor=white)
-![Joplin](https://img.shields.io/badge/Joplin-1071D3.svg?style=for-the-badge&logo=Joplin&logoColor=white)
-![Zettlr](https://img.shields.io/badge/Zettlr-1CB27E.svg?style=for-the-badge&logo=Zettlr&logoColor=white)
-![Overleaf](https://img.shields.io/badge/Overleaf-47A141?style=for-the-badge&logo=Overleaf&logoColor=white)
-![Markdown](https://img.shields.io/badge/Markdown-000000.svg?style=for-the-badge&logo=Markdown&logoColor=white)
-![VSCode](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC.svg?style=for-the-badge&logo=Visual-Studio-Code&logoColor=white)
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-![GitLab](https://img.shields.io/badge/GitLab-FC6D26.svg?style=for-the-badge&logo=GitLab&logoColor=white)
-![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
-![Zotero](https://img.shields.io/badge/Zotero-CC2936.svg?style=for-the-badge&logo=Zotero&logoColor=white)
+
+
+
+|                                                                Coding                                                                 |                                                  Documentation                                                  |                                                 Research                                                  |                                                       DevOps                                                       |                                                    OS                                                    |                                               Staying Organized                                                |                                                    Systems Admin                                                    |
+| :-----------------------------------------------------------------------------------------------------------------------------------: | :-------------------------------------------------------------------------------------------------------------: | :-------------------------------------------------------------------------------------------------------: | :----------------------------------------------------------------------------------------------------------------: | :------------------------------------------------------------------------------------------------------: | :------------------------------------------------------------------------------------------------------------: | :-----------------------------------------------------------------------------------------------------------------: |
+|                 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)                 | ![Obsidian](https://img.shields.io/badge/Obsidian-483699.svg?style=for-the-badge&logo=Obsidian&logoColor=white) | ![Zotero](https://img.shields.io/badge/Zotero-CC2936.svg?style=for-the-badge&logo=Zotero&logoColor=white) |    ![Ansible](https://img.shields.io/badge/Ansible-EE0000.svg?style=for-the-badge&logo=Ansible&logoColor=white)    |  ![MacOS](https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=apple&logoColor=white)   |  ![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)  | ![Wezterm](https://img.shields.io/badge/Wezterm-412991.svg?style=for-the-badge&logo=GNOME-Terminal&logoColor=white) |
+|         ![Javascript](https://img.shields.io/badge/JavaScript-F7DF1E.svg?style=for-the-badge&logo=JavaScript&logoColor=black)         | ![Overleaf](https://img.shields.io/badge/Overleaf-47A141?style=for-the-badge&logo=Overleaf&logoColor=white)<br> | ![Logseq](https://img.shields.io/badge/Logseq-85C8C8.svg?style=for-the-badge&logo=Logseq&logoColor=black) |    ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)    |  ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)   | ![Emacs](https://img.shields.io/badge/Emacs-%237F5AB6.svg?&style=for-the-badge&logo=gnu-emacs&logoColor=white) |        ![ZSH](https://img.shields.io/badge/Z_Shell-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)        |
+| ![VSCode](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC.svg?style=for-the-badge&logo=Visual-Studio-Code&logoColor=white) |    ![Zettlr](https://img.shields.io/badge/Zettlr-1CB27E.svg?style=for-the-badge&logo=Zettlr&logoColor=white)    |  ![Latex](https://img.shields.io/badge/LaTeX-008080.svg?style=for-the-badge&logo=LaTeX&logoColor=white)   |     ![GitLab](https://img.shields.io/badge/GitLab-FC6D26.svg?style=for-the-badge&logo=GitLab&logoColor=white)      | ![BSD](https://img.shields.io/badge/FreeBSD-AB2B28.svg?style=for-the-badge&logo=FreeBSD&logoColor=white) |   ![Notion](https://img.shields.io/badge/Notion-000000.svg?style=for-the-badge&logo=Notion&logoColor=white)    |        ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=GNU%20Bash&logoColor=white)        |
+|             ![Neovim](https://img.shields.io/badge/NeoVim-%2357A143.svg?&style=for-the-badge&logo=neovim&logoColor=white)             |  ![Joplin](https://img.shields.io/badge/Joplin-1071D3.svg?style=for-the-badge&logo=Joplin&logoColor=white)<br>  |                                                                                                           | ![Terraform](https://img.shields.io/badge/Terraform-844FBA.svg?style=for-the-badge&logo=Terraform&logoColor=white) |                                                                                                          |   ![Alfred](https://img.shields.io/badge/Alfred-6C1F87.svg?style=for-the-badge&logo=Alfred&logoColor=white)    | ![OpenStack](https://img.shields.io/badge/OpenStack-ED1944.svg?style=for-the-badge&logo=OpenStack&logoColor=white)  |
+|         ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1.svg?style=for-the-badge&logo=PostgreSQL&logoColor=white)         | ![Markdown](https://img.shields.io/badge/Markdown-000000.svg?style=for-the-badge&logo=Markdown&logoColor=white) |                                                                                                           |                                                                                                                    |                                                                                                          |    ![Vivaldi](https://img.shields.io/badge/Vivaldi-EF3939?style=for-the-badge&logo=Vivaldi&logoColor=white)    |                                                                                                                     |
+
+
+
+<!--- End Table -->
+
+
 
 
 
 ### Stuff I love to play with in my spare time
 
-![Xilinx](https://img.shields.io/badge/Xilinx_Vivado-E01F27.svg?style=for-the-badge&logo=Xilinx&logoColor=white)
-![Kicad](https://img.shields.io/badge/KiCad-314CB0.svg?style=for-the-badge&logo=KiCad&logoColor=white)
-![MIDI](https://img.shields.io/badge/MIDI-000000.svg?style=for-the-badge&logo=MIDI&logoColor=white)
-![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi-A22846?style=for-the-badge&logo=Raspberry%20Pi&logoColor=white)
-![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
-![OpenAI](https://img.shields.io/badge/OpenAI-412991.svg?style=for-the-badge&logo=OpenAI&logoColor=white)
-![Colab](https://img.shields.io/badge/Google%20Colab-F9AB00.svg?style=for-the-badge&logo=Google-Colab&logoColor=white)
-![Latex](https://img.shields.io/badge/LaTeX-008080.svg?style=for-the-badge&logo=LaTeX&logoColor=white)
-![Javascript](https://img.shields.io/badge/JavaScript-F7DF1E.svg?style=for-the-badge&logo=JavaScript&logoColor=black)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+|                                                        Coding                                                         |                                                 Hardware Design                                                  |                                                Music                                                |                                                             AI                                                              |                                                          Tinkering                                                          |
+| :-------------------------------------------------------------------------------------------------------------------: | :--------------------------------------------------------------------------------------------------------------: | :-------------------------------------------------------------------------------------------------: | :-------------------------------------------------------------------------------------------------------------------------: | :-------------------------------------------------------------------------------------------------------------------------: |
+|   ![Haskell](https://img.shields.io/badge/Haskell-5D4F85.svg?style=for-the-badge&logo=Haskell&logoColor=white)<br>    | ![Xilinx](https://img.shields.io/badge/Xilinx_Vivado-E01F27.svg?style=for-the-badge&logo=Xilinx&logoColor=white) | ![MIDI](https://img.shields.io/badge/MIDI-000000.svg?style=for-the-badge&logo=MIDI&logoColor=white) |          ![OpenAI](https://img.shields.io/badge/OpenAI-412991.svg?style=for-the-badge&logo=OpenAI&logoColor=white)          | ![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi-A22846?style=for-the-badge&logo=Raspberry%20Pi&logoColor=white) |
+|              ![D](https://img.shields.io/badge/D-B03931.svg?style=for-the-badge&logo=D&logoColor=white)               |      ![Kicad](https://img.shields.io/badge/KiCad-314CB0.svg?style=for-the-badge&logo=KiCad&logoColor=white)      |                                                                                                     |   ![Colab](https://img.shields.io/badge/Google%20Colab-F9AB00.svg?style=for-the-badge&logo=Google-Colab&logoColor=white)    |          ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)           |
+| ![Purescript](https://img.shields.io/badge/PureScript-14161A.svg?style=for-the-badge&logo=PureScript&logoColor=white) |    ![Zettlr](https://img.shields.io/badge/Zettlr-1CB27E.svg?style=for-the-badge&logo=Zettlr&logoColor=white)     |                                                                                                     |     ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C.svg?style=for-the-badge&logo=LangChain&logoColor=white)      |                                                                                                                             |
+|          ![Rust](https://img.shields.io/badge/Rust-000000.svg?style=for-the-badge&logo=Rust&logoColor=white)          |  ![Joplin](https://img.shields.io/badge/Joplin-1071D3.svg?style=for-the-badge&logo=Joplin&logoColor=white)<br>   |                                                                                                     | ![PaddlePaddle](https://img.shields.io/badge/PaddlePaddle-0062B0.svg?style=for-the-badge&logo=PaddlePaddle&logoColor=white) |                                                                                                                             |
+|        ![OCaml](https://img.shields.io/badge/OCaml-EC6813.svg?style=for-the-badge&logo=OCaml&logoColor=white)         | ![Markdown](https://img.shields.io/badge/Markdown-000000.svg?style=for-the-badge&logo=Markdown&logoColor=white)  |                                                                                                     |                                                                                                                             |                                                                                                                             |
+|    ![Cucumber](https://img.shields.io/badge/Cucumber-23D96C.svg?style=for-the-badge&logo=Cucumber&logoColor=white)    |                                                                                                                  |                                                                                                     |                                                                                                                             |                                                                                                                             |
+<!--- End Table -->
 
 ### Interested in learning more about:
 
-![Rust](https://img.shields.io/badge/Rust-000000.svg?style=for-the-badge&logo=Rust&logoColor=white)
+
 ![Go](https://img.shields.io/badge/Go-00ADD8.svg?style=for-the-badge&logo=Go&logoColor=white)
 ![Qemu](https://img.shields.io/badge/QEMU-FF6600.svg?style=for-the-badge&logo=QEMU&logoColor=white)
 ![Puppet](https://img.shields.io/badge/Puppet-FFAE1A.svg?style=for-the-badge&logo=Puppet&logoColor=black)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5.svg?style=for-the-badge&logo=Kubernetes&logoColor=white)
 ![Kafka](https://img.shields.io/badge/Kafka-231F20.svg?style=for-the-badge&logo=Apache-Kafka&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C.svg?style=for-the-badge&logo=C++&logoColor=white)
 ![Jenkins](https://img.shields.io/badge/Jenkins-D24939.svg?style=for-the-badge&logo=Jenkins&logoColor=white)
-![Budibase](https://img.shields.io/badge/Budibase-000000.svg?style=for-the-badge&logo=Budibase&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-DC382D.svg?style=for-the-badge&logo=Redis&logoColor=white)
+![Fortran](https://img.shields.io/badge/Fortran-734F96.svg?style=for-the-badge&logo=Fortran&logoColor=white)
+![Zig](https://img.shields.io/badge/Zig-F7A41D.svg?style=for-the-badge&logo=Zig&logoColor=white)
 
 ### Connect with me:
 
